@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1732647541 source:c:\users\hp elitebook\desktop\projetuv\sujet12\main.cpp
+	"fonction.h"
+
+1732556013 c:\users\hp elitebook\desktop\projetuv\sujet12\include\fonction.h
+	<iostream>
+	<string>
+	<ctime>
+	<fstream>
+	<iomanip>
+	<sstream>
+	<vector>
+	<iomanip>
+	<algorithm>
+
+1732647191 source:c:\users\hp elitebook\desktop\projetuv\sujet12\src\fonction.cpp
+	"fonction.h"
+

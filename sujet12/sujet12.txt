@@ -1,0 +1,8 @@
+/*Système de Suivi de Santé Personnelle
+ Ajouter des enregistrements quotidiens de poids, pression sanguine, et pouls pour chaque
+ patient.
+ Rechercher des enregistrements par date
+ Générer un rapport de santé des informations du patient.
+ Gérer les rendez des patients
+ Enregistrer les données dans un fichier pour suivi continu.
+ Importer des données précédentes à partir d'un fichier.*/
